@@ -1,0 +1,17 @@
+User-agent: *
+User-agent: Googlebot
+Disallow: /.htaccess
+Disallow: /sftp-config.json
+Disallow: /shutter.mp3
+Disallow: /webcam.js
+Disallow: /webcam.swf
+Disallow: /uploads
+Disallow: /command
+Allow: /bot
+Allow: /bot/index.php
+Disallow: /css
+Disallow: /exe
+Disallow: /js
+Disallow: /speech-input-gh-pages
+Disallow: /vozdois
+Sitemap : http://junior.890m.com/bot/sitemap.xml
